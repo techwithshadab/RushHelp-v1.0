@@ -1,0 +1,11 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="e:\users\bhargav\desktop\rushhelp v1.0\tempapp\obj\release\intermediatexaml\tempapp.exe" HashGuid="7b5eef38-fa6b-cda8-b9fc-63dae67f4455" />
+    <ReferenceAssembly PathName="e:\users\bhargav\desktop\screen shots\rushhelp v1.0\packages\windowsazure.messaging.managed.0.1.7.9\lib\wpa81\microsoft.windowsazure.messaging.managed.dll" HashGuid="a6c77c87-a1d1-2c9f-340a-0958f7d05449" />
+    <ReferenceAssembly PathName="e:\users\bhargav\desktop\screen shots\rushhelp v1.0\packages\windowsazure.mobileservices.1.3.2\lib\wpa81\microsoft.windowsazure.mobile.dll" HashGuid="5b462045-d27b-e518-25e9-78bf6305d2d1" />
+    <ReferenceAssembly PathName="e:\users\bhargav\desktop\screen shots\rushhelp v1.0\packages\windowsazure.mobileservices.1.3.2\lib\wpa81\microsoft.windowsazure.mobile.ext.dll" HashGuid="55d46a17-b94f-0632-1660-bd4332856778" />
+    <ReferenceAssembly PathName="e:\users\bhargav\desktop\screen shots\rushhelp v1.0\packages\newtonsoft.json.6.0.8\lib\portable-net45+wp80+win8+wpa81+aspnetcore50\newtonsoft.json.dll" HashGuid="a6815119-bde8-2bdd-8acf-133f32c00b94" />
+    <ReferenceAssembly PathName="e:\users\bhargav\desktop\screen shots\rushhelp v1.0\packages\microsoft.net.http.2.2.29\lib\wpa81\system.net.http.extensions.dll" HashGuid="794366f8-cc6d-f0fa-3d07-33b45136e193" />
+    <ReferenceAssembly PathName="e:\users\bhargav\desktop\screen shots\rushhelp v1.0\packages\microsoft.net.http.2.2.29\lib\wpa81\system.net.http.primitives.dll" HashGuid="7b71418d-e056-7613-c839-85fb8f6472a6" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

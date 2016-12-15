@@ -1,0 +1,20 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="e:\users\bhargav\desktop\tempapp\tempapp\obj\arm\debug\intermediatexaml\tempapp.exe" HashGuid="24f07623-5372-8896-80b2-d0875f7a5062" />
+    <ReferenceAssembly PathName="e:\program files (x86)\microsoft sdks\windowsphoneapp\v8.1\extensionsdks\testplatform\14.0\references\commonconfiguration\neutral\microsoft.visualstudio.testplatform.common.dll" HashGuid="b98db8d6-dccf-da85-191e-bd0f7a5b6d2d" />
+    <ReferenceAssembly PathName="e:\program files (x86)\microsoft sdks\windowsphoneapp\v8.1\extensionsdks\testplatform\14.0\references\commonconfiguration\neutral\microsoft.visualstudio.testplatform.core.dll" HashGuid="6badb6a6-01b9-277e-c726-6cba5af3cd67" />
+    <ReferenceAssembly PathName="e:\program files (x86)\microsoft sdks\windowsphoneapp\v8.1\extensionsdks\testplatform\14.0\references\commonconfiguration\neutral\microsoft.visualstudio.testplatform.objectmodel.dll" HashGuid="457ef68c-818e-de83-0808-1a67f8ebb18f" />
+    <ReferenceAssembly PathName="e:\program files (x86)\microsoft sdks\windowsphoneapp\v8.1\extensionsdks\testplatform\14.0\references\commonconfiguration\neutral\microsoft.visualstudio.testplatform.testexecutor.core.dll" HashGuid="92e83417-b060-1a11-f1d0-b365cbb05795" />
+    <ReferenceAssembly PathName="e:\program files (x86)\microsoft sdks\windowsphoneapp\v8.1\extensionsdks\mstestframework\14.0\references\commonconfiguration\neutral\microsoft.visualstudio.testplatform.unittestframework.dll" HashGuid="b2f6f25d-f779-3e1e-460e-1dcf57c30471" />
+    <ReferenceAssembly PathName="e:\program files (x86)\microsoft sdks\windowsphoneapp\v8.1\extensionsdks\behaviorsxamlsdkmanaged\12.0\references\commonconfiguration\neutral\microsoft.xaml.interactions.dll" HashGuid="95a94f94-3917-d473-4f7c-18c4bd437046" />
+    <ReferenceAssembly PathName="e:\program files (x86)\microsoft sdks\windowsphoneapp\v8.1\extensionsdks\behaviorsxamlsdkmanaged\12.0\references\commonconfiguration\neutral\microsoft.xaml.interactivity.dll" HashGuid="d25f59e6-dd81-900a-0dfc-55b39f6898ef" />
+    <ReferenceAssembly PathName="e:\program files (x86)\microsoft sdks\windowsphoneapp\v8.1\extensionsdks\microsoft.vclibs\12.0\references\commonconfiguration\neutral\platform.winmd" HashGuid="58b6b6d1-928e-9908-9804-eb460e5e101b" />
+    <ReferenceAssembly PathName="e:\users\bhargav\appdata\local\microsoft sdks\windows\v8.1\extensionsdks\bing.maps.xaml\1.313.0825.0\references\commonconfiguration\neutral\bing.maps.winmd" HashGuid="dcdce9e5-521a-6d20-3956-9df814dff813" />
+    <ReferenceAssembly PathName="e:\users\bhargav\desktop\tempapp\packages\windowsazure.messaging.managed.0.1.7.9\lib\wpa81\microsoft.windowsazure.messaging.managed.dll" HashGuid="a6c77c87-a1d1-2c9f-340a-0958f7d05449" />
+    <ReferenceAssembly PathName="e:\users\bhargav\desktop\tempapp\packages\windowsazure.mobileservices.1.3.2\lib\wpa81\microsoft.windowsazure.mobile.dll" HashGuid="5b462045-d27b-e518-25e9-78bf6305d2d1" />
+    <ReferenceAssembly PathName="e:\users\bhargav\desktop\tempapp\packages\windowsazure.mobileservices.1.3.2\lib\wpa81\microsoft.windowsazure.mobile.ext.dll" HashGuid="55d46a17-b94f-0632-1660-bd4332856778" />
+    <ReferenceAssembly PathName="e:\users\bhargav\desktop\tempapp\packages\newtonsoft.json.6.0.8\lib\portable-net45+wp80+win8+wpa81+aspnetcore50\newtonsoft.json.dll" HashGuid="a6815119-bde8-2bdd-8acf-133f32c00b94" />
+    <ReferenceAssembly PathName="e:\users\bhargav\desktop\tempapp\packages\microsoft.net.http.2.2.29\lib\wpa81\system.net.http.extensions.dll" HashGuid="794366f8-cc6d-f0fa-3d07-33b45136e193" />
+    <ReferenceAssembly PathName="e:\users\bhargav\desktop\tempapp\packages\microsoft.net.http.2.2.29\lib\wpa81\system.net.http.primitives.dll" HashGuid="7b71418d-e056-7613-c839-85fb8f6472a6" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

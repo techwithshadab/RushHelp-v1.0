@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-MOBIREP</Machine>
+    <WindowsUser>manit</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows Phone 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>62a3915a-9364-4844-8611-7dd175aeae76</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\manit\Desktop\RushHelp v1.0%28with maps%29\TempApp\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\manit\Desktop\RushHelp v1.0%28with maps%29\TempApp\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\manit\Desktop\RushHelp v1.0%28with maps%29\TempApp\bin\Debug\TempApp.exe">
+      <PackagePath>TempApp.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\manit\Desktop\RushHelp v1.0%28with maps%29\TempApp\bin\Debug\TempApp.exe.config">
+      <PackagePath>TempApp.exe.config</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\manit\Desktop\RushHelp v1.0%28with maps%29\packages\WindowsAzure.Messaging.Managed.0.1.7.9\lib\wpa81\Microsoft.WindowsAzure.Messaging.Managed.dll">
+      <PackagePath>Microsoft.WindowsAzure.Messaging.Managed.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\manit\Desktop\RushHelp v1.0%28with maps%29\packages\WindowsAzure.MobileServices.1.3.2\lib\wpa81\Microsoft.WindowsAzure.Mobile.dll">
+      <PackagePath>Microsoft.WindowsAzure.Mobile.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\manit\Desktop\RushHelp v1.0%28with maps%29\packages\WindowsAzure.MobileServices.1.3.2\lib\wpa81\Microsoft.WindowsAzure.Mobile.Ext.dll">
+      <PackagePath>Microsoft.WindowsAzure.Mobile.Ext.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\manit\Desktop\RushHelp v1.0%28with maps%29\packages\Newtonsoft.Json.6.0.8\lib\portable-net45+wp80+win8+wpa81+aspnetcore50\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\manit\Desktop\RushHelp v1.0%28with maps%29\packages\Microsoft.Net.Http.2.2.29\lib\wpa81\System.Net.Http.Extensions.dll">
+      <PackagePath>System.Net.Http.Extensions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\manit\Desktop\RushHelp v1.0%28with maps%29\packages\Microsoft.Net.Http.2.2.29\lib\wpa81\System.Net.Http.Primitives.dll">
+      <PackagePath>System.Net.Http.Primitives.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\manit\Desktop\RushHelp v1.0%28with maps%29\TempApp\Assets\ACCIDENT.jpg">
+      <PackagePath>Assets\ACCIDENT.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\manit\Desktop\RushHelp v1.0%28with maps%29\TempApp\Assets\BadgeLogo.scale-240.jpg">
+      <PackagePath>Assets\BadgeLogo.scale-240.jpg</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\manit\Desktop\RushHelp v1.0%28with maps%29\TempApp\Assets\Blood Donation.jpg">
+      <PackagePath>Assets\Blood Donation.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\manit\Desktop\RushHelp v1.0%28with maps%29\TempApp\Assets\FEMALE HARASSMENT.jpg">
+      <PackagePath>Assets\FEMALE HARASSMENT.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\manit\Desktop\RushHelp v1.0%28with maps%29\TempApp\Assets\Logo.scale-240.jpg">
+      <PackagePath>Assets\Logo.scale-240.jpg</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\manit\Desktop\RushHelp v1.0%28with maps%29\TempApp\Assets\Main.jpg">
+      <PackagePath>Assets\Main.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\manit\Desktop\RushHelp v1.0%28with maps%29\TempApp\Assets\MEDICAL HELP.jpg">
+      <PackagePath>Assets\MEDICAL HELP.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\manit\Desktop\RushHelp v1.0%28with maps%29\TempApp\Assets\RUSHELP.jpg">
+      <PackagePath>Assets\RUSHELP.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\manit\Desktop\RushHelp v1.0%28with maps%29\TempApp\Assets\SmallLogo.scale-240.jpg">
+      <PackagePath>Assets\SmallLogo.scale-240.jpg</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\manit\Desktop\RushHelp v1.0%28with maps%29\TempApp\Assets\SplashScreen.scale-240.jpg">
+      <PackagePath>Assets\SplashScreen.scale-240.jpg</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\manit\Desktop\RushHelp v1.0%28with maps%29\TempApp\Assets\Square71x71Logo.scale-240.jpg">
+      <PackagePath>Assets\Square71x71Logo.scale-240.jpg</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\manit\Desktop\RushHelp v1.0%28with maps%29\TempApp\Assets\StoreLogo.scale-240.jpg">
+      <PackagePath>Assets\StoreLogo.scale-240.jpg</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\manit\Desktop\RushHelp v1.0%28with maps%29\TempApp\Assets\WideLogo.scale-240.jpg">
+      <PackagePath>Assets\WideLogo.scale-240.jpg</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\manit\Desktop\RushHelp v1.0%28with maps%29\TempApp\Assets\color-logo.png">
+      <PackagePath>Assets\color-logo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\manit\Desktop\RushHelp v1.0%28with maps%29\TempApp\bin\Debug\TempApp.xr.xml">
+      <PackagePath>TempApp.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\manit\Desktop\RushHelp v1.0%28with maps%29\TempApp\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\manit\Desktop\RushHelp v1.0%28with maps%29\TempApp\bin\Debug\donationform.xbf">
+      <PackagePath>donationform.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\manit\Desktop\RushHelp v1.0%28with maps%29\TempApp\bin\Debug\mapout.xbf">
+      <PackagePath>mapout.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\manit\Desktop\RushHelp v1.0%28with maps%29\TempApp\bin\Debug\Womenout.xbf">
+      <PackagePath>Womenout.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\manit\Desktop\RushHelp v1.0%28with maps%29\TempApp\bin\Debug\Medicalout.xbf">
+      <PackagePath>Medicalout.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\manit\Desktop\RushHelp v1.0%28with maps%29\TempApp\bin\Debug\Blooddonateout.xbf">
+      <PackagePath>Blooddonateout.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\manit\Desktop\RushHelp v1.0%28with maps%29\TempApp\bin\Debug\firstpage.xbf">
+      <PackagePath>firstpage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\manit\Desktop\RushHelp v1.0%28with maps%29\TempApp\bin\Debug\startpage.xbf">
+      <PackagePath>startpage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\manit\Desktop\RushHelp v1.0%28with maps%29\TempApp\bin\Debug\Accidentout.xbf">
+      <PackagePath>Accidentout.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\manit\Desktop\RushHelp v1.0%28with maps%29\TempApp\bin\Debug\secondpage.xbf">
+      <PackagePath>secondpage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\manit\Desktop\RushHelp v1.0%28with maps%29\TempApp\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\manit\Desktop\RushHelp v1.0%28with maps%29\TempApp\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

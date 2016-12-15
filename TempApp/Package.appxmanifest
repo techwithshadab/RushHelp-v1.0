@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/2010/manifest" xmlns:m2="http://schemas.microsoft.com/appx/2013/manifest" xmlns:m3="http://schemas.microsoft.com/appx/2014/manifest" xmlns:mp="http://schemas.microsoft.com/appx/2014/phone/manifest">
+  <Identity Name="20655Mani535.RushHelp" Publisher="CN=A901537D-B0E2-485B-9285-BAFDBAAC2DA0" Version="1.1.0.5" />
+  <mp:PhoneIdentity PhoneProductId="62a3915a-9364-4844-8611-7dd175aeae76" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
+  <Properties>
+    <DisplayName>RushHelp</DisplayName>
+    <PublisherDisplayName>Mani535</PublisherDisplayName>
+    <Logo>Assets\StoreLogo.jpg</Logo>
+  </Properties>
+  <Prerequisites>
+    <OSMinVersion>6.3.1</OSMinVersion>
+    <OSMaxVersionTested>6.3.1</OSMaxVersionTested>
+  </Prerequisites>
+  <Resources>
+    <Resource Language="x-generate" />
+  </Resources>
+  <Applications>
+    <Application Id="App" Executable="$targetnametoken$.exe" EntryPoint="TempApp.App">
+      <m3:VisualElements DisplayName="RushHelp" Square150x150Logo="Assets\Logo.jpg" Square44x44Logo="Assets\SmallLogo.jpg" Description="TempApp" ForegroundText="light" BackgroundColor="transparent" ToastCapable="true">
+        <m3:LockScreen Notification="badgeAndTileText" BadgeLogo="Assets\BadgeLogo.jpg" />
+        <m3:DefaultTile Wide310x150Logo="Assets\WideLogo.jpg" Square71x71Logo="Assets\Square71x71Logo.jpg">
+          <m3:ShowNameOnTiles>
+            <m3:ShowOn Tile="square150x150Logo" />
+          </m3:ShowNameOnTiles>
+        </m3:DefaultTile>
+        <m3:SplashScreen Image="Assets\SplashScreen.jpg" />
+      </m3:VisualElements>
+    </Application>
+  </Applications>
+  <Capabilities>
+    <Capability Name="internetClientServer" />
+    <DeviceCapability Name="location" />
+  </Capabilities>
+</Package>

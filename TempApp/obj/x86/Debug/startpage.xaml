@@ -1,0 +1,53 @@
+﻿<Page
+    x:Class="TempApp.startpage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:TempApp"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+    <GridView>
+
+        <StackPanel Orientation="Vertical" Width="390" Height="1153" >
+            
+            <Image Source="Assets/RUSHELP.jpg" Height="100" Width="400" Stretch="Fill" />
+            <TextBlock Text="Full Name" />
+            <TextBox Name="FullName"/>
+
+            <TextBlock Text="Age" />
+            <TextBox Name="age" />
+
+            <TextBlock Text="Gender" />
+            <TextBox Name="Gender"/>
+            <TextBlock Text="Phone Number" />
+            <TextBox Name="phoneNumber" />
+
+            <TextBlock Text="Emergency Number1" />
+            <TextBox Name="emergencyNumber1" />
+
+            <TextBlock Text="Emergency Number2" />
+            <TextBox Name="emergencyNumber2" />
+
+            <TextBlock Text="Office city" />
+            <TextBox Name="officeCity" />
+
+            <TextBlock Text="Home City" />
+            <TextBox Name="homeCity" />
+
+            <TextBlock Text="Country" />
+            <TextBox Name="country" />
+
+            <TextBlock Text="State" />
+            <TextBox Name="state" />
+
+            <TextBlock Text="District" />
+            <TextBox Name="district" />
+
+            <Button x:ConnectionId='1' x:Name="SignUpBtn"  Content="Sign Up"                HorizontalAlignment="Stretch" Margin="0,0,281,0" />
+
+            <TextBlock Name="error" FontSize="18" />
+        </StackPanel>
+    </GridView>
+</Page>
+
